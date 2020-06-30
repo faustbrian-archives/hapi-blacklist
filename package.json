@@ -67,7 +67,7 @@
 		"@sindresorhus/tsconfig": "^0.7.0",
 		"@types/hapi__boom": "^9.0.1",
 		"@types/hapi__hapi": "^19.0.2",
-		"@types/hapi__joi": "^16.0.12",
+		"@types/hapi__joi": "^17.0.0",
 		"@types/jest": "^25.1.4",
 		"@types/lodash": "^4.14.149",
 		"@types/lodash.get": "^4.4.6",
