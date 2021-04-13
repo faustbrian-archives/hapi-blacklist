@@ -1,4 +1,5 @@
 import { Server } from "@hapi/hapi";
+
 import { authenticate } from "./authenticate";
 import { config } from "./config";
 

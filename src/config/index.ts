@@ -1,5 +1,6 @@
 import getter from "lodash.get";
 import setter from "lodash.set";
+
 import { schema } from "./schema";
 
 class Config {
