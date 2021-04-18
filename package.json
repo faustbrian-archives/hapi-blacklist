@@ -19,20 +19,20 @@
 		"dist"
 	],
 	"dependencies": {
-		"@hapi/boom": "^9.1.0",
-		"@hapi/hapi": "^20.0.3",
+		"@hapi/boom": "^9.1.2",
+		"@hapi/hapi": "^20.1.2",
 		"@hapi/joi": "^17.1.1",
 		"@konceiver/remote-address": "^1.0.0",
 		"lodash.get": "^4.4.2",
 		"lodash.set": "^4.3.2",
-		"micromatch": "^4.0.2"
+		"micromatch": "^4.0.4"
 	},
 	"devDependencies": {
-		"@konceiver/tease": "^2.0.0",
+		"@konceiver/tease": "^2.0.1",
 		"@types/hapi__boom": "^9.0.1",
-		"@types/hapi__hapi": "^20.0.3",
+		"@types/hapi__hapi": "^20.0.7",
 		"@types/hapi__joi": "^17.1.6",
-		"@types/lodash": "^4.14.165",
+		"@types/lodash": "^4.14.168",
 		"@types/lodash.get": "^4.4.6",
 		"@types/lodash.set": "^4.3.6",
 		"@types/micromatch": "^4.0.1"
