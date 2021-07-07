@@ -30,12 +30,12 @@
 	"devDependencies": {
 		"@konceiver/tease": "^2.0.1",
 		"@types/hapi__boom": "^9.0.1",
-		"@types/hapi__hapi": "^20.0.8",
-		"@types/hapi__joi": "^17.1.6",
-		"@types/lodash": "^4.14.170",
+		"@types/hapi__hapi": "^20.0.9",
+		"@types/hapi__joi": "^17.1.7",
+		"@types/lodash": "^4.14.171",
 		"@types/lodash.get": "^4.4.6",
 		"@types/lodash.set": "^4.3.6",
-		"@types/micromatch": "^4.0.1"
+		"@types/micromatch": "^4.0.2"
 	},
 	"types": "dist/index"
 }
